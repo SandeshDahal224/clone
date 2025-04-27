@@ -10,8 +10,28 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "bootstrap": "^5.3.5",
+    "classnames": "^2.5.1",
+    "dom-helpers": "^5.2.1",
+    "dom7": "^4.0.6",
+    "emailjs": "^4.0.3",
+    "hoist-non-react-statics": "^3.3.2",
+    "invariant": "^2.2.4",
+    "prop-types": "^15.8.1",
+    "prop-types-extra": "^1.1.1",
+    "react": "^19.1.0",
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "^19.1.0",
+    "react-is": "^19.1.0",
+    "react-lifecycles-compat": "^3.0.4",
+    "react-router-dom": "^7.5.2",
+    "react-transition-group": "^4.4.5",
+    "scheduler": "^0.26.0",
+    "shallowequal": "^1.1.0",
+    "ssr-window": "^5.0.0",
+    "styled-components": "^6.1.17",
+    "swiper": "^11.2.6",
+    "uncontrollable": "^9.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
